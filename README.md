@@ -13,3 +13,8 @@
 源文件见 `Week_7.ipynb`。
 
 选取的数据集为 Oakland Crime Statistics。
+
+## 第 9 周作业
+源文件见 `Week_9.ipynb`。
+
+选取的数据集为 Video Game Sales。
