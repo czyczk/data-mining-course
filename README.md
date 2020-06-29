@@ -18,3 +18,9 @@
 源文件见 `Week_9.ipynb`。
 
 选取的数据集为 Video Game Sales。
+
+## 第 12 周作业
+源文件见 `Week_12_P1.ipynb` 和 `Week_12_P2.ipynb`。
+
+选取的数据集分别为 Wine Benchmarks 和 Wave Benchmarks。
+
